@@ -8,3 +8,6 @@ A simple responsive website only using HTML and CSS
 <br><br>
 <h3>Services Page (Desktop View)</h3>
 <img src="img/screenshots/2.png" alt="screenshot">
+<br><br>
+<h3>Homepage (Mobile View)</h3>
+<img src="img/screenshots/3.png" alt="screenshot">
