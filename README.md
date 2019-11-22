@@ -4,7 +4,7 @@ A simple responsive website only using HTML and CSS
 (No backened part added in this website. This is only the frontend)<br>
 This is a Web Service Provider Site. Where seller showcasing his product and services.
 
-<h3 align="center" style="color: orange;"><a href="https://musfiqdehan.github.io/Web-Service-Provider-Site/" alt="view">Click here to view the full site</a></h3>
+<h3 align="center"><a href="https://musfiqdehan.github.io/Web-Service-Provider-Site/" alt="view">Click here to view the full site</a></h3>
 
 <h3>Homepage (Desktop View)</h3>
 <img src="img/screenshots/1.png" alt="screenshot">
