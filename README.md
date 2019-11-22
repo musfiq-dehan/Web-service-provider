@@ -1,4 +1,4 @@
-<body align="center">
+
   
   <h1> MRDTechBD</h1>
   A simple responsive website only using HTML and CSS
@@ -16,4 +16,3 @@
   <br><br>
   <h3>Homepage (Mobile View)</h3>
   <img src="img/screenshots/3.png" alt="screenshot">
-</body>
