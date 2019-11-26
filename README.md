@@ -1,7 +1,7 @@
 
   
   <h1 align="center"> MRDTechBD</h1>
-  A simple responsive website only using HTML and CSS
+  <p align="center">A simple responsive website only using HTML and CSS</p>
   <br><br>
   (No backened part added in this website. This is only the frontend)<br>
   This is a Web Service Provider Site. Where seller showcasing his product and services.
