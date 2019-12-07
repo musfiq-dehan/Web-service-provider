@@ -14,5 +14,5 @@
   <h3 align="center">Services Page (Desktop View)</h3>
   <img src="img/screenshots/2.png" alt="screenshot">
   <br><br>
-  <h3>Homepage (Mobile View)</h3>
+  <h3 align="center">Homepage (Mobile View)</h3>
   <p align="center"><img src="img/screenshots/3.png" alt="screenshot"></p>
