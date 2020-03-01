@@ -174,14 +174,14 @@ footer {
 	text-align: center;
 }
 
-footer a {
+footer a footer-link c2 {
 	color: #11999E;
 	font-family: 'Crimson Pro', serif;
 	text-decoration: none;
 	margin: 10px 20px;
 }
 
-footer a:hover {
+footer footer-link c2:hover {
 	color: #ffffff;
 }
 
