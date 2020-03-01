@@ -174,14 +174,14 @@ footer {
 	text-align: center;
 }
 
-a {
+footer a {
 	color: #11999E;
 	font-family: 'Crimson Pro', serif;
 	text-decoration: none;
 	margin: 10px 20px;
 }
 
-a:hover {
+footer a:hover {
 	color: #ffffff;
 }
 
